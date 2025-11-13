@@ -29,7 +29,7 @@ Versión modificada del entorno de programación **Rinfo**, desarrollado origina
 
 ## 💡 Créditos
 - **Desarrollador original:** Facultad de Informática – UNLP  
-- **Modificaciones visuales (modo oscuro, íconos y colores):** [dediosdi](https://github.com/juandidb)
+- **Modificaciones visuales (modo oscuro, íconos y colores):** [juandidb](https://github.com/juandidb)
 
 ---
 
