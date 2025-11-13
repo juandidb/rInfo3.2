@@ -1,4 +1,4 @@
-#🌙 Rinfo 3.2 (No Oficial)
+<h1 align="center">🌆 <b>rInfo 3.2</b></h1>
 
 
 Versión modificada del entorno de programación **Rinfo**, desarrollado originalmente por la **UNLP**, adaptada con un tema oscuro y mejoras visuales para una experiencia moderna y más cómoda a la vista.
