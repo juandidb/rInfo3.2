@@ -1,9 +1,7 @@
 #🌙 Rinfo 3.2 (No Oficial)
 
-![Logo de rInfo 3.2](images/app-icon.png)
 
 Versión modificada del entorno de programación **Rinfo**, desarrollado originalmente por la **UNLP**, adaptada con un tema oscuro y mejoras visuales para una experiencia moderna y más cómoda a la vista.
-
 
 ---
 
@@ -39,4 +37,6 @@ Versión modificada del entorno de programación **Rinfo**, desarrollado origina
 Proyecto sin fines oficiales, creado únicamente con fines educativos, estéticos y experimentales.
 
 > ⚠️ Esta versión **no es oficial**. Todos los cambios fueron realizados con asistencia de ia, respetando la estructura y funcionamiento original del entorno.
+
+![Logo de rInfo 3.2](images/app-icon.png)
 
