@@ -22,7 +22,7 @@ Versión modificada del entorno de programación **Rinfo**, desarrollado origina
 
 ## 🚀 Instalación
 1. Cloná este repositorio o descargá el `.jar` modificado.  
-2. Asegurate de tener **Java** instalado [**en su versión mas reciente**](https://www.oracle.com/java/technologies/downloads/), si usas una versión antigua, **no va a funcionar**
+2. Asegurate de tener **Java** instalado [**en su versión mas reciente**](https://www.oracle.com/java/technologies/downloads/), si usas una versión inferior a la 21, **no va a funcionar**
 3. Ejecutá el archivo `.jar` igual que la versión original de Rinfo.
 
 ---
@@ -40,7 +40,7 @@ Proyecto sin fines oficiales, creado únicamente con fines educativos, estético
 ---
 
 ## ⚠️  Errores comunes
-- **Error: A JNI error has ocurred, please check your installation and try again:** Este error ocurre por tener instalada una versión antigua de JAVA, asegurate de tener JAVA actualizado a la versión 21 o posterior [descargandolo desde acá](https://www.oracle.com/java/technologies/downloads/
+- **Error: A JNI error has ocurred, please check your installation and try again:** Este error ocurre por tener instalada una versión antigua de JAVA, asegurate de tener JAVA actualizado a la versión 21 o posterior [descargandolo desde acá](https://www.oracle.com/java/technologies/downloads/)
 
 ---
 
