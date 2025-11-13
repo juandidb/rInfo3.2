@@ -1,5 +1,5 @@
 <h1 align="center">🌆 <b>rInfo 3.2</b></h1>
-
+<div align="center">
 
 Versión modificada del entorno de programación **Rinfo**, desarrollado originalmente por la **UNLP**, adaptada con un tema oscuro y mejoras visuales para una experiencia moderna y más cómoda a la vista.
 
@@ -40,3 +40,4 @@ Proyecto sin fines oficiales, creado únicamente con fines educativos, estético
 
 ![Logo de rInfo 3.2](images/app-icon.png)
 
+</div>
