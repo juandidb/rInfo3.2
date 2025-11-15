@@ -54,7 +54,7 @@ Proyecto sin fines oficiales ni de lucro, creado únicamente con fines estético
 
 <div align="center">
 
-Si te gustó **rInfo 3.2** podés invitarme un café, acá o en la facultad :)
+Si te gustó **rInfo 3.2** podés invitarme un café :)
 
 [![Invitame un café en Cafecito](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/juandidb)
 
